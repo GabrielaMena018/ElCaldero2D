@@ -1,0 +1,3731 @@
+fileFormatVersion: 2
+guid: b6d8e5a2fc24ff2468ee3870f4f5c9af
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2183362424812693748
+    second: "\xA1Listo para mezclar!_0"
+  - first:
+      213: 1473215013083892538
+    second: "\xA1Listo para mezclar!_1"
+  - first:
+      213: 3382218438676988610
+    second: "\xA1Listo para mezclar!_2"
+  - first:
+      213: -4648395508240751793
+    second: "\xA1Listo para mezclar!_3"
+  - first:
+      213: -1739182490270936839
+    second: "\xA1Listo para mezclar!_4"
+  - first:
+      213: 71418934658771469
+    second: "\xA1Listo para mezclar!_5"
+  - first:
+      213: -381787580418222572
+    second: "\xA1Listo para mezclar!_6"
+  - first:
+      213: -7737986808030448686
+    second: "\xA1Listo para mezclar!_7"
+  - first:
+      213: 3652473090024365572
+    second: "\xA1Listo para mezclar!_8"
+  - first:
+      213: 4023675045797250484
+    second: "\xA1Listo para mezclar!_9"
+  - first:
+      213: 841909535420617703
+    second: "\xA1Listo para mezclar!_10"
+  - first:
+      213: -922004416967205913
+    second: "\xA1Listo para mezclar!_11"
+  - first:
+      213: -4020737686260855948
+    second: "\xA1Listo para mezclar!_12"
+  - first:
+      213: -5669964340278345776
+    second: "\xA1Listo para mezclar!_13"
+  - first:
+      213: 5255808322242549263
+    second: "\xA1Listo para mezclar!_14"
+  - first:
+      213: -3238136904800150948
+    second: "\xA1Listo para mezclar!_15"
+  - first:
+      213: -8331680920909112266
+    second: "\xA1Listo para mezclar!_16"
+  - first:
+      213: -5780228457391904192
+    second: "\xA1Listo para mezclar!_17"
+  - first:
+      213: 1337032354428449543
+    second: "\xA1Listo para mezclar!_18"
+  - first:
+      213: 927780662216864441
+    second: "\xA1Listo para mezclar!_19"
+  - first:
+      213: -7177919532338012992
+    second: "\xA1Listo para mezclar!_20"
+  - first:
+      213: 252608728229453693
+    second: "\xA1Listo para mezclar!_21"
+  - first:
+      213: -8363301784457217815
+    second: "\xA1Listo para mezclar!_22"
+  - first:
+      213: -4990801848773119692
+    second: "\xA1Listo para mezclar!_23"
+  - first:
+      213: 4030105177501533419
+    second: "\xA1Listo para mezclar!_24"
+  - first:
+      213: -4029727849926507952
+    second: "\xA1Listo para mezclar!_25"
+  - first:
+      213: 1621317491977963860
+    second: "\xA1Listo para mezclar!_26"
+  - first:
+      213: -4850327656835141246
+    second: "\xA1Listo para mezclar!_27"
+  - first:
+      213: 7821644549479848344
+    second: "\xA1Listo para mezclar!_28"
+  - first:
+      213: -3343822689266279013
+    second: "\xA1Listo para mezclar!_29"
+  - first:
+      213: 2626633924314666365
+    second: "\xA1Listo para mezclar!_30"
+  - first:
+      213: 4573099930142575391
+    second: "\xA1Listo para mezclar!_31"
+  - first:
+      213: 7379597524887343528
+    second: "\xA1Listo para mezclar!_32"
+  - first:
+      213: 720307603475100375
+    second: "\xA1Listo para mezclar!_33"
+  - first:
+      213: -3095327727458305030
+    second: "\xA1Listo para mezclar!_34"
+  - first:
+      213: 1933617326811717112
+    second: "\xA1Listo para mezclar!_35"
+  - first:
+      213: -2075113212967603831
+    second: "\xA1Listo para mezclar!_36"
+  - first:
+      213: -7913670826674903778
+    second: "\xA1Listo para mezclar!_37"
+  - first:
+      213: 2096265726637040125
+    second: "\xA1Listo para mezclar!_38"
+  - first:
+      213: 4961754861877433576
+    second: "\xA1Listo para mezclar!_39"
+  - first:
+      213: 1670275419440008051
+    second: "\xA1Listo para mezclar!_40"
+  - first:
+      213: -5266343184955963718
+    second: "\xA1Listo para mezclar!_41"
+  - first:
+      213: 6483821630828800546
+    second: "\xA1Listo para mezclar!_42"
+  - first:
+      213: 4251364944380766174
+    second: "\xA1Listo para mezclar!_43"
+  - first:
+      213: -6118237655230761169
+    second: "\xA1Listo para mezclar!_44"
+  - first:
+      213: 5403402263082235180
+    second: "\xA1Listo para mezclar!_45"
+  - first:
+      213: 3257842602104698414
+    second: "\xA1Listo para mezclar!_46"
+  - first:
+      213: -507231252633534653
+    second: "\xA1Listo para mezclar!_47"
+  - first:
+      213: -448809431816822486
+    second: "\xA1Listo para mezclar!_48"
+  - first:
+      213: 6154460108743487074
+    second: "\xA1Listo para mezclar!_49"
+  - first:
+      213: 2383754330471212304
+    second: "\xA1Listo para mezclar!_50"
+  - first:
+      213: -4823863063876069086
+    second: "\xA1Listo para mezclar!_51"
+  - first:
+      213: 8002708642904627931
+    second: "\xA1Listo para mezclar!_52"
+  - first:
+      213: 1946276997479564845
+    second: "\xA1Listo para mezclar!_53"
+  - first:
+      213: 3391208258483452785
+    second: "\xA1Listo para mezclar!_54"
+  - first:
+      213: 3073868006259069579
+    second: "\xA1Listo para mezclar!_55"
+  - first:
+      213: 1507365685987471673
+    second: "\xA1Listo para mezclar!_56"
+  - first:
+      213: -1395464415947537971
+    second: "\xA1Listo para mezclar!_57"
+  - first:
+      213: -97803000848814493
+    second: "\xA1Listo para mezclar!_58"
+  - first:
+      213: 6118973517552810726
+    second: "\xA1Listo para mezclar!_59"
+  - first:
+      213: -3248146256444597732
+    second: "\xA1Listo para mezclar!_60"
+  - first:
+      213: 3344759428530424280
+    second: "\xA1Listo para mezclar!_61"
+  - first:
+      213: -4727196205786663764
+    second: "\xA1Listo para mezclar!_62"
+  - first:
+      213: 9004069630019299779
+    second: "\xA1Listo para mezclar!_63"
+  - first:
+      213: -6677922201464995947
+    second: "\xA1Listo para mezclar!_64"
+  - first:
+      213: -8824806147687907192
+    second: "\xA1Listo para mezclar!_65"
+  - first:
+      213: -5161458975966456412
+    second: "\xA1Listo para mezclar!_66"
+  - first:
+      213: -7901882875182923954
+    second: "\xA1Listo para mezclar!_67"
+  - first:
+      213: 5031722345203549771
+    second: "\xA1Listo para mezclar!_68"
+  - first:
+      213: 5143600047385190315
+    second: "\xA1Listo para mezclar!_69"
+  - first:
+      213: 5392731052517841335
+    second: "\xA1Listo para mezclar!_70"
+  - first:
+      213: -4040408094609945789
+    second: "\xA1Listo para mezclar!_71"
+  - first:
+      213: 5083525939627040392
+    second: "\xA1Listo para mezclar!_72"
+  - first:
+      213: 7570307707877643517
+    second: "\xA1Listo para mezclar!_73"
+  - first:
+      213: 7917638949954184059
+    second: "\xA1Listo para mezclar!_74"
+  - first:
+      213: -5370864147988234707
+    second: "\xA1Listo para mezclar!_75"
+  - first:
+      213: 3547497615158742847
+    second: "\xA1Listo para mezclar!_76"
+  - first:
+      213: 8584523824694657259
+    second: "\xA1Listo para mezclar!_77"
+  - first:
+      213: -738296318273185693
+    second: "\xA1Listo para mezclar!_78"
+  - first:
+      213: 3874495003941567513
+    second: "\xA1Listo para mezclar!_79"
+  - first:
+      213: 4405286423934215461
+    second: "\xA1Listo para mezclar!_80"
+  - first:
+      213: -2022493681870649810
+    second: "\xA1Listo para mezclar!_81"
+  - first:
+      213: 6318823024110111331
+    second: "\xA1Listo para mezclar!_82"
+  - first:
+      213: 6355293005914184333
+    second: "\xA1Listo para mezclar!_83"
+  - first:
+      213: -6850587082384409124
+    second: "\xA1Listo para mezclar!_84"
+  - first:
+      213: 4763108554533027440
+    second: "\xA1Listo para mezclar!_85"
+  - first:
+      213: 8971511800088225387
+    second: "\xA1Listo para mezclar!_86"
+  - first:
+      213: -5310237504617755386
+    second: "\xA1Listo para mezclar!_87"
+  - first:
+      213: -3727157566253583334
+    second: "\xA1Listo para mezclar!_88"
+  - first:
+      213: -6370245336564866751
+    second: "\xA1Listo para mezclar!_89"
+  - first:
+      213: -3259438114708000380
+    second: "\xA1Listo para mezclar!_90"
+  - first:
+      213: -7958577955766228698
+    second: "\xA1Listo para mezclar!_91"
+  - first:
+      213: 1080053096500112895
+    second: "\xA1Listo para mezclar!_92"
+  - first:
+      213: -2102776217540153416
+    second: "\xA1Listo para mezclar!_93"
+  - first:
+      213: -328295120458576887
+    second: "\xA1Listo para mezclar!_94"
+  - first:
+      213: 8900638158772544485
+    second: "\xA1Listo para mezclar!_95"
+  - first:
+      213: 8149536133831400301
+    second: "\xA1Listo para mezclar!_96"
+  - first:
+      213: 2652753264983192552
+    second: "\xA1Listo para mezclar!_97"
+  - first:
+      213: -4152875817159099312
+    second: "\xA1Listo para mezclar!_98"
+  - first:
+      213: -4052539736831019183
+    second: "\xA1Listo para mezclar!_99"
+  - first:
+      213: 1842315090952696460
+    second: "\xA1Listo para mezclar!_100"
+  - first:
+      213: -5889853723315405444
+    second: "\xA1Listo para mezclar!_101"
+  - first:
+      213: -5415801562943981930
+    second: "\xA1Listo para mezclar!_102"
+  - first:
+      213: 7576262609657187472
+    second: "\xA1Listo para mezclar!_103"
+  - first:
+      213: 6387556091318068647
+    second: "\xA1Listo para mezclar!_104"
+  - first:
+      213: -4471138272665028916
+    second: "\xA1Listo para mezclar!_105"
+  - first:
+      213: -277414177580563751
+    second: "\xA1Listo para mezclar!_106"
+  - first:
+      213: -8262651969941451914
+    second: "\xA1Listo para mezclar!_107"
+  - first:
+      213: -5440036195152563876
+    second: "\xA1Listo para mezclar!_108"
+  - first:
+      213: 1538748743005751771
+    second: "\xA1Listo para mezclar!_109"
+  - first:
+      213: 1827276726219678725
+    second: "\xA1Listo para mezclar!_110"
+  - first:
+      213: 3329585100574570771
+    second: "\xA1Listo para mezclar!_111"
+  - first:
+      213: 7378401107166222881
+    second: "\xA1Listo para mezclar!_112"
+  - first:
+      213: 9075367756100765527
+    second: "\xA1Listo para mezclar!_113"
+  - first:
+      213: -3995073122808556112
+    second: "\xA1Listo para mezclar!_114"
+  - first:
+      213: -5122671507095801862
+    second: "\xA1Listo para mezclar!_115"
+  - first:
+      213: -2058689022211293337
+    second: "\xA1Listo para mezclar!_116"
+  - first:
+      213: 2543595208791759144
+    second: "\xA1Listo para mezclar!_117"
+  - first:
+      213: 4328053084353333921
+    second: "\xA1Listo para mezclar!_118"
+  - first:
+      213: 4961535989927737333
+    second: "\xA1Listo para mezclar!_119"
+  - first:
+      213: 7199261371891512417
+    second: "\xA1Listo para mezclar!_120"
+  - first:
+      213: 3064392232067068834
+    second: "\xA1Listo para mezclar!_121"
+  - first:
+      213: 4342362648766052252
+    second: "\xA1Listo para mezclar!_122"
+  - first:
+      213: 8789803244750081950
+    second: "\xA1Listo para mezclar!_123"
+  - first:
+      213: 7714292209971931324
+    second: "\xA1Listo para mezclar!_124"
+  - first:
+      213: -6510245312486790054
+    second: "\xA1Listo para mezclar!_125"
+  - first:
+      213: -560087858133386784
+    second: "\xA1Listo para mezclar!_126"
+  - first:
+      213: -8940840955914815697
+    second: "\xA1Listo para mezclar!_127"
+  - first:
+      213: 8266805449401584711
+    second: "\xA1Listo para mezclar!_128"
+  - first:
+      213: -84124564308539195
+    second: "\xA1Listo para mezclar!_129"
+  - first:
+      213: -6792762003970192496
+    second: "\xA1Listo para mezclar!_130"
+  - first:
+      213: 8315624953402810581
+    second: "\xA1Listo para mezclar!_131"
+  - first:
+      213: -8270658170676939266
+    second: "\xA1Listo para mezclar!_132"
+  - first:
+      213: -8203418955587557247
+    second: "\xA1Listo para mezclar!_133"
+  - first:
+      213: -8459185669782633072
+    second: "\xA1Listo para mezclar!_134"
+  - first:
+      213: -2287641570717127953
+    second: "\xA1Listo para mezclar!_135"
+  - first:
+      213: 8303466935176320662
+    second: "\xA1Listo para mezclar!_136"
+  - first:
+      213: 2327444201452057460
+    second: "\xA1Listo para mezclar!_137"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "\xA1Listo para mezclar!_0"
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 714
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f865e2be8cdc4e10800000000000000
+      internalID: 2183362424812693748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xA1Listo para mezclar!_1"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 2155
+        height: 698
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3b43acbf39e17410800000000000000
+      internalID: 1473215013083892538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xA1Listo para mezclar!_2"
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 651
+        width: 28
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c24e1e00cd00fe20800000000000000
+      internalID: 3382218438676988610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xA1Listo para mezclar!_3"
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 622
+        width: 144
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f43e9cbd9e49d7fb0800000000000000
+      internalID: -4648395508240751793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xA1Listo para mezclar!_4"
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 693
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f052db5dbe2dd7e0800000000000000
+      internalID: -1739182490270936839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xA1Listo para mezclar!_5"
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 678
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0aa296842bbdf000800000000000000
+      internalID: 71418934658771469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xA1Listo para mezclar!_6"
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 667
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4161489e73e93baf0800000000000000
+      internalID: -381787580418222572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xA1Listo para mezclar!_7"
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 651
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d3bfa6eef52d9490800000000000000
+      internalID: -7737986808030448686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xA1Listo para mezclar!_8"
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 584
+        width: 124
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40e539a7ce030b230800000000000000
+      internalID: 3652473090024365572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xA1Listo para mezclar!_9"
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 658
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b54954c227f6d730800000000000000
+      internalID: 4023675045797250484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xA1Listo para mezclar!_10"
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 658
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e392c703401fab00800000000000000
+      internalID: 841909535420617703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xA1Listo para mezclar!_11"
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 640
+        width: 35
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eb14552ed16433f0800000000000000
+      internalID: -922004416967205913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xA1Listo para mezclar!_12"
+      rect:
+        serializedVersion: 2
+        x: 1679
+        y: 647
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47b456b80687338c0800000000000000
+      internalID: -4020737686260855948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xA1Listo para mezclar!_13"
+      rect:
+        serializedVersion: 2
+        x: 1768
+        y: 651
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dfb398297d3051b0800000000000000
+      internalID: -5669964340278345776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xA1Listo para mezclar!_14"
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 569
+        width: 96
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f061fc692d160f840800000000000000
+      internalID: 5255808322242549263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xA1Listo para mezclar!_15"
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 651
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5add4734a3df03d0800000000000000
+      internalID: -3238136904800150948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xA1Listo para mezclar!_16"
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 654
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63c1057785cef5c80800000000000000
+      internalID: -8331680920909112266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xA1Listo para mezclar!_17"
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 620
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04a2d8cc7d088cfa0800000000000000
+      internalID: -5780228457391904192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xA1Listo para mezclar!_18"
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 651
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70379eaa7d71e8210800000000000000
+      internalID: 1337032354428449543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xA1Listo para mezclar!_19"
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 613
+        width: 46
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b2b9e0c89320ec00800000000000000
+      internalID: 927780662216864441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xA1Listo para mezclar!_20"
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 594
+        width: 73
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cc97a03738e26c90800000000000000
+      internalID: -7177919532338012992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xA1Listo para mezclar!_21"
+      rect:
+        serializedVersion: 2
+        x: 1615
+        y: 646
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7f9749cc42718300800000000000000
+      internalID: 252608728229453693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xA1Listo para mezclar!_22"
+      rect:
+        serializedVersion: 2
+        x: 1711
+        y: 651
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e8790476559feb80800000000000000
+      internalID: -8363301784457217815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xA1Listo para mezclar!_23"
+      rect:
+        serializedVersion: 2
+        x: 1746
+        y: 643
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 431f383392c1dbab0800000000000000
+      internalID: -4990801848773119692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xA1Listo para mezclar!_24"
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 640
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be401787e4fcde730800000000000000
+      internalID: 4030105177501533419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xA1Listo para mezclar!_25"
+      rect:
+        serializedVersion: 2
+        x: 2075
+        y: 651
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 052c1a3fed78318c0800000000000000
+      internalID: -4029727849926507952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xA1Listo para mezclar!_26"
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 644
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45949793ba3108610800000000000000
+      internalID: 1621317491977963860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xA1Listo para mezclar!_27"
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 635
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 281b61ab1bc20bcb0800000000000000
+      internalID: -4850327656835141246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xA1Listo para mezclar!_28"
+      rect:
+        serializedVersion: 2
+        x: 1531
+        y: 638
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 899dd13e6401c8c60800000000000000
+      internalID: 7821644549479848344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xA1Listo para mezclar!_29"
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 632
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9d546efafa5891d0800000000000000
+      internalID: -3343822689266279013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xA1Listo para mezclar!_30"
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 610
+        width: 57
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7514cd33ada37420800000000000000
+      internalID: 2626633924314666365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xA1Listo para mezclar!_31"
+      rect:
+        serializedVersion: 2
+        x: 1732
+        y: 644
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1b038a382ae67f30800000000000000
+      internalID: 4573099930142575391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xA1Listo para mezclar!_32"
+      rect:
+        serializedVersion: 2
+        x: 1785
+        y: 632
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a11340a9d8996660800000000000000
+      internalID: 7379597524887343528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xA1Listo para mezclar!_33"
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 628
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d27522f2fb0ff900800000000000000
+      internalID: 720307603475100375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xA1Listo para mezclar!_34"
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 627
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afb3e65e4df2b05d0800000000000000
+      internalID: -3095327727458305030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xA1Listo para mezclar!_35"
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 622
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fd1728c6b695da10800000000000000
+      internalID: 1933617326811717112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xA1Listo para mezclar!_36"
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 624
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 981b858f687b333e0800000000000000
+      internalID: -2075113212967603831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xA1Listo para mezclar!_37"
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 600
+        width: 59
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e15aba2cf4efc2290800000000000000
+      internalID: -7913670826674903778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xA1Listo para mezclar!_38"
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 629
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df1e607629e671d10800000000000000
+      internalID: 2096265726637040125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xA1Listo para mezclar!_39"
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 628
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e495c422c1bbd440800000000000000
+      internalID: 4961754861877433576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xA1Listo para mezclar!_40"
+      rect:
+        serializedVersion: 2
+        x: 2035
+        y: 626
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37bc9ccf4a20e2710800000000000000
+      internalID: 1670275419440008051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xA1Listo para mezclar!_41"
+      rect:
+        serializedVersion: 2
+        x: 2073
+        y: 632
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab6866b86c03ae6b0800000000000000
+      internalID: -5266343184955963718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xA1Listo para mezclar!_42"
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 593
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22a6b84ab692bf950800000000000000
+      internalID: 6483821630828800546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xA1Listo para mezclar!_43"
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 600
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed72d5864e1effa30800000000000000
+      internalID: 4251364944380766174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xA1Listo para mezclar!_44"
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 596
+        width: 35
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f273d84b447a71ba0800000000000000
+      internalID: -6118237655230761169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xA1Listo para mezclar!_45"
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 606
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c25fe85dabdbcfa40800000000000000
+      internalID: 5403402263082235180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xA1Listo para mezclar!_46"
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 610
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e26b598f59e263d20800000000000000
+      internalID: 3257842602104698414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xA1Listo para mezclar!_47"
+      rect:
+        serializedVersion: 2
+        x: 1293
+        y: 610
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34f3dc7fcd3f5f8f0800000000000000
+      internalID: -507231252633534653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xA1Listo para mezclar!_48"
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 580
+        width: 20
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a21a6bc133285c9f0800000000000000
+      internalID: -448809431816822486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xA1Listo para mezclar!_49"
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 609
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26ea7f57cd8096550800000000000000
+      internalID: 6154460108743487074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xA1Listo para mezclar!_50"
+      rect:
+        serializedVersion: 2
+        x: 1649
+        y: 610
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01529831febc41120800000000000000
+      internalID: 2383754330471212304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xA1Listo para mezclar!_51"
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 600
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2291a80f9123e0db0800000000000000
+      internalID: -4823863063876069086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xA1Listo para mezclar!_52"
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 580
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bda574d4c155f0f60800000000000000
+      internalID: 8002708642904627931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xA1Listo para mezclar!_53"
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 598
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d26884d0e90920b10800000000000000
+      internalID: 1946276997479564845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xA1Listo para mezclar!_54"
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 592
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17bf64691fdff0f20800000000000000
+      internalID: 3391208258483452785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xA1Listo para mezclar!_55"
+      rect:
+        serializedVersion: 2
+        x: 1405
+        y: 591
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8292876aa298aa20800000000000000
+      internalID: 3073868006259069579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xA1Listo para mezclar!_56"
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 594
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93175e3ea1d3be410800000000000000
+      internalID: 1507365685987471673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xA1Listo para mezclar!_57"
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 594
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc1cfb6d18052ace0800000000000000
+      internalID: -1395464415947537971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xA1Listo para mezclar!_58"
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 596
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36e607c50b884aef0800000000000000
+      internalID: -97803000848814493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xA1Listo para mezclar!_59"
+      rect:
+        serializedVersion: 2
+        x: 1689
+        y: 585
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eaf1c79ef5fae450800000000000000
+      internalID: 6118973517552810726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xA1Listo para mezclar!_60"
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 578
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1ada1e60344ce2d0800000000000000
+      internalID: -3248146256444597732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xA1Listo para mezclar!_61"
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 571
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d9c1bc9af8fa6e20800000000000000
+      internalID: 3344759428530424280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xA1Listo para mezclar!_62"
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 576
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca4f28ab810a56eb0800000000000000
+      internalID: -4727196205786663764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xA1Listo para mezclar!_63"
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 548
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c9ee267f91e4fc70800000000000000
+      internalID: 9004069630019299779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xA1Listo para mezclar!_64"
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 124
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59ffbff83214353a0800000000000000
+      internalID: -6677922201464995947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xA1Listo para mezclar!_65"
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 160
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8800163809df78580800000000000000
+      internalID: -8824806147687907192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xA1Listo para mezclar!_66"
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 63
+        width: 88
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a594ce6860de58b0800000000000000
+      internalID: -5161458975966456412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xA1Listo para mezclar!_67"
+      rect:
+        serializedVersion: 2
+        x: 1607
+        y: 157
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4fbaf7146fd65290800000000000000
+      internalID: -7901882875182923954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xA1Listo para mezclar!_68"
+      rect:
+        serializedVersion: 2
+        x: 1754
+        y: 166
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b46c04250d444d540800000000000000
+      internalID: 5031722345203549771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xA1Listo para mezclar!_69"
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 111
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baf931bbdfcb16740800000000000000
+      internalID: 5143600047385190315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xA1Listo para mezclar!_70"
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 123
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b95b820254d6da40800000000000000
+      internalID: 5392731052517841335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xA1Listo para mezclar!_71"
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 134
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34b4925be369de7c0800000000000000
+      internalID: -4040408094609945789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xA1Listo para mezclar!_72"
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 146
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88e14fd88ef4c8640800000000000000
+      internalID: 5083525939627040392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xA1Listo para mezclar!_73"
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 144
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df4d27840c22f0960800000000000000
+      internalID: 7570307707877643517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xA1Listo para mezclar!_74"
+      rect:
+        serializedVersion: 2
+        x: 1768
+        y: 140
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b73e0dfecaa11ed60800000000000000
+      internalID: 7917638949954184059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xA1Listo para mezclar!_75"
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 128
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2eb742738bd675b0800000000000000
+      internalID: -5370864147988234707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xA1Listo para mezclar!_76"
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 144
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3f0519194e3b3130800000000000000
+      internalID: 3547497615158742847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xA1Listo para mezclar!_77"
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 93
+        width: 62
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be08dc09fea522770800000000000000
+      internalID: 8584523824694657259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xA1Listo para mezclar!_78"
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 131
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3681952096b01c5f0800000000000000
+      internalID: -738296318273185693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xA1Listo para mezclar!_79"
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 136
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91c76f99da8f4c530800000000000000
+      internalID: 3874495003941567513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xA1Listo para mezclar!_80"
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 126
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 525237099a8b22d30800000000000000
+      internalID: 4405286423934215461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xA1Listo para mezclar!_81"
+      rect:
+        serializedVersion: 2
+        x: 1768
+        y: 112
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e26c0a346b8aee3e0800000000000000
+      internalID: -2022493681870649810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xA1Listo para mezclar!_82"
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 119
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36a84a6df08f0b750800000000000000
+      internalID: 6318823024110111331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xA1Listo para mezclar!_83"
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 113
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8a1a0d2159823850800000000000000
+      internalID: 6355293005914184333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xA1Listo para mezclar!_84"
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 95
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cddf8933853dde0a0800000000000000
+      internalID: -6850587082384409124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xA1Listo para mezclar!_85"
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 113
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07eb09b8ef5f91240800000000000000
+      internalID: 4763108554533027440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xA1Listo para mezclar!_86"
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 83
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b66eb76f276318c70800000000000000
+      internalID: 8971511800088225387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xA1Listo para mezclar!_87"
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 97
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60d4d48df1f3e46b0800000000000000
+      internalID: -5310237504617755386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xA1Listo para mezclar!_88"
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 93
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a14bb89d0f9764cc0800000000000000
+      internalID: -3727157566253583334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xA1Listo para mezclar!_89"
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 85
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14166fd0e975897a0800000000000000
+      internalID: -6370245336564866751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xA1Listo para mezclar!_90"
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 89
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 481f57dcd4624c2d0800000000000000
+      internalID: -3259438114708000380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xA1Listo para mezclar!_91"
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 101
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 629ac4df3837d8190800000000000000
+      internalID: -7958577955766228698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xA1Listo para mezclar!_92"
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 61
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffd2373a19e1dfe00800000000000000
+      internalID: 1080053096500112895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xA1Listo para mezclar!_93"
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 47
+        width: 83
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bf216fcb2071d2e0800000000000000
+      internalID: -2102776217540153416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xA1Listo para mezclar!_94"
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 81
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90c829bc359a17bf0800000000000000
+      internalID: -328295120458576887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xA1Listo para mezclar!_95"
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 94
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e3acef6f3b658b70800000000000000
+      internalID: 8900638158772544485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xA1Listo para mezclar!_96"
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 95
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6b1b358fe7f81170800000000000000
+      internalID: 8149536133831400301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xA1Listo para mezclar!_97"
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 95
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e3b4142a0970d420800000000000000
+      internalID: 2652753264983192552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xA1Listo para mezclar!_98"
+      rect:
+        serializedVersion: 2
+        x: 1585
+        y: 88
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05cfbe972750e56c0800000000000000
+      internalID: -4152875817159099312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xA1Listo para mezclar!_99"
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 95
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1573804a49c72c7c0800000000000000
+      internalID: -4052539736831019183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xA1Listo para mezclar!_100"
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 95
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c82b39070d7319910800000000000000
+      internalID: 1842315090952696460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xA1Listo para mezclar!_101"
+      rect:
+        serializedVersion: 2
+        x: 2122
+        y: 97
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7df5c29e39034ea0800000000000000
+      internalID: -5889853723315405444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xA1Listo para mezclar!_102"
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 87
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 696f7b23c2537d4b0800000000000000
+      internalID: -5415801562943981930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xA1Listo para mezclar!_103"
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 63
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09cc0b5e3ba442960800000000000000
+      internalID: 7576262609657187472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xA1Listo para mezclar!_104"
+      rect:
+        serializedVersion: 2
+        x: 1277
+        y: 85
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a565ed1c6825a850800000000000000
+      internalID: 6387556091318068647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xA1Listo para mezclar!_105"
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 44
+        width: 36
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc6b52c1e6353f1c0800000000000000
+      internalID: -4471138272665028916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xA1Listo para mezclar!_106"
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 81
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d247a9764d662cf0800000000000000
+      internalID: -277414177580563751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xA1Listo para mezclar!_107"
+      rect:
+        serializedVersion: 2
+        x: 1347
+        y: 91
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67b45fc8fc9255d80800000000000000
+      internalID: -8262651969941451914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xA1Listo para mezclar!_108"
+      rect:
+        serializedVersion: 2
+        x: 1518
+        y: 73
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c51f9ae27eb1184b0800000000000000
+      internalID: -5440036195152563876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xA1Listo para mezclar!_109"
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 78
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd9cf6144dbba5510800000000000000
+      internalID: 1538748743005751771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xA1Listo para mezclar!_110"
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 63
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 504a9ac408acb5910800000000000000
+      internalID: 1827276726219678725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xA1Listo para mezclar!_111"
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 46
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3193e211200153e20800000000000000
+      internalID: 3329585100574570771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xA1Listo para mezclar!_112"
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 55
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12addfae6b8556660800000000000000
+      internalID: 7378401107166222881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xA1Listo para mezclar!_113"
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 55
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7578b6c04ee22fd70800000000000000
+      internalID: 9075367756100765527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xA1Listo para mezclar!_114"
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 57
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b5194f5926ae88c0800000000000000
+      internalID: -3995073122808556112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xA1Listo para mezclar!_115"
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 49
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aff2a86c76d98e8b0800000000000000
+      internalID: -5122671507095801862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xA1Listo para mezclar!_116"
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 63
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76f7910ed311e63e0800000000000000
+      internalID: -2058689022211293337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xA1Listo para mezclar!_117"
+      rect:
+        serializedVersion: 2
+        x: 1979
+        y: 63
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8291b68ad5aac4320800000000000000
+      internalID: 2543595208791759144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xA1Listo para mezclar!_118"
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 49
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aa0ae56955501c30800000000000000
+      internalID: 4328053084353333921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xA1Listo para mezclar!_119"
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 15
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f775fb02baead440800000000000000
+      internalID: 4961535989927737333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xA1Listo para mezclar!_120"
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 41
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 164f8cc031ae8e360800000000000000
+      internalID: 7199261371891512417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xA1Listo para mezclar!_121"
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 55
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a3f2dccf78e68a20800000000000000
+      internalID: 3064392232067068834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xA1Listo para mezclar!_122"
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 49
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c97ff9d72db234c30800000000000000
+      internalID: 4342362648766052252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xA1Listo para mezclar!_123"
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 47
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9f87e01b77abf970800000000000000
+      internalID: 8789803244750081950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xA1Listo para mezclar!_124"
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 46
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb8a0f494ebae0b60800000000000000
+      internalID: 7714292209971931324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xA1Listo para mezclar!_125"
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 49
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5ca29c8166f6a5a0800000000000000
+      internalID: -6510245312486790054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xA1Listo para mezclar!_126"
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 55
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e933fc7f0b2a38f0800000000000000
+      internalID: -560087858133386784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xA1Listo para mezclar!_127"
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 48
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f27fe6d6580cbe380800000000000000
+      internalID: -8940840955914815697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xA1Listo para mezclar!_128"
+      rect:
+        serializedVersion: 2
+        x: 1721
+        y: 55
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74c48deb1c799b270800000000000000
+      internalID: 8266805449401584711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xA1Listo para mezclar!_129"
+      rect:
+        serializedVersion: 2
+        x: 1726
+        y: 55
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c8418b872125def0800000000000000
+      internalID: -84124564308539195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xA1Listo para mezclar!_130"
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 43
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09b069d62f24bb1a0800000000000000
+      internalID: -6792762003970192496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xA1Listo para mezclar!_131"
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 33
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d0e2f846d8076370800000000000000
+      internalID: 8315624953402810581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xA1Listo para mezclar!_132"
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 23
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef57e1ea638b83d80800000000000000
+      internalID: -8270658170676939266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xA1Listo para mezclar!_133"
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 39
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1886f786ce9972e80800000000000000
+      internalID: -8203418955587557247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xA1Listo para mezclar!_134"
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 23
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0950887b37fea9a80800000000000000
+      internalID: -8459185669782633072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xA1Listo para mezclar!_135"
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 19
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fea2df3ac1aa040e0800000000000000
+      internalID: -2287641570717127953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xA1Listo para mezclar!_136"
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 23
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 696d2631f27db3370800000000000000
+      internalID: 8303466935176320662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xA1Listo para mezclar!_137"
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 23
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 473b71e7b2ebc4020800000000000000
+      internalID: 2327444201452057460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "\xA1Listo para mezclar!_0": 2183362424812693748
+      "\xA1Listo para mezclar!_1": 1473215013083892538
+      "\xA1Listo para mezclar!_10": 841909535420617703
+      "\xA1Listo para mezclar!_100": 1842315090952696460
+      "\xA1Listo para mezclar!_101": -5889853723315405444
+      "\xA1Listo para mezclar!_102": -5415801562943981930
+      "\xA1Listo para mezclar!_103": 7576262609657187472
+      "\xA1Listo para mezclar!_104": 6387556091318068647
+      "\xA1Listo para mezclar!_105": -4471138272665028916
+      "\xA1Listo para mezclar!_106": -277414177580563751
+      "\xA1Listo para mezclar!_107": -8262651969941451914
+      "\xA1Listo para mezclar!_108": -5440036195152563876
+      "\xA1Listo para mezclar!_109": 1538748743005751771
+      "\xA1Listo para mezclar!_11": -922004416967205913
+      "\xA1Listo para mezclar!_110": 1827276726219678725
+      "\xA1Listo para mezclar!_111": 3329585100574570771
+      "\xA1Listo para mezclar!_112": 7378401107166222881
+      "\xA1Listo para mezclar!_113": 9075367756100765527
+      "\xA1Listo para mezclar!_114": -3995073122808556112
+      "\xA1Listo para mezclar!_115": -5122671507095801862
+      "\xA1Listo para mezclar!_116": -2058689022211293337
+      "\xA1Listo para mezclar!_117": 2543595208791759144
+      "\xA1Listo para mezclar!_118": 4328053084353333921
+      "\xA1Listo para mezclar!_119": 4961535989927737333
+      "\xA1Listo para mezclar!_12": -4020737686260855948
+      "\xA1Listo para mezclar!_120": 7199261371891512417
+      "\xA1Listo para mezclar!_121": 3064392232067068834
+      "\xA1Listo para mezclar!_122": 4342362648766052252
+      "\xA1Listo para mezclar!_123": 8789803244750081950
+      "\xA1Listo para mezclar!_124": 7714292209971931324
+      "\xA1Listo para mezclar!_125": -6510245312486790054
+      "\xA1Listo para mezclar!_126": -560087858133386784
+      "\xA1Listo para mezclar!_127": -8940840955914815697
+      "\xA1Listo para mezclar!_128": 8266805449401584711
+      "\xA1Listo para mezclar!_129": -84124564308539195
+      "\xA1Listo para mezclar!_13": -5669964340278345776
+      "\xA1Listo para mezclar!_130": -6792762003970192496
+      "\xA1Listo para mezclar!_131": 8315624953402810581
+      "\xA1Listo para mezclar!_132": -8270658170676939266
+      "\xA1Listo para mezclar!_133": -8203418955587557247
+      "\xA1Listo para mezclar!_134": -8459185669782633072
+      "\xA1Listo para mezclar!_135": -2287641570717127953
+      "\xA1Listo para mezclar!_136": 8303466935176320662
+      "\xA1Listo para mezclar!_137": 2327444201452057460
+      "\xA1Listo para mezclar!_14": 5255808322242549263
+      "\xA1Listo para mezclar!_15": -3238136904800150948
+      "\xA1Listo para mezclar!_16": -8331680920909112266
+      "\xA1Listo para mezclar!_17": -5780228457391904192
+      "\xA1Listo para mezclar!_18": 1337032354428449543
+      "\xA1Listo para mezclar!_19": 927780662216864441
+      "\xA1Listo para mezclar!_2": 3382218438676988610
+      "\xA1Listo para mezclar!_20": -7177919532338012992
+      "\xA1Listo para mezclar!_21": 252608728229453693
+      "\xA1Listo para mezclar!_22": -8363301784457217815
+      "\xA1Listo para mezclar!_23": -4990801848773119692
+      "\xA1Listo para mezclar!_24": 4030105177501533419
+      "\xA1Listo para mezclar!_25": -4029727849926507952
+      "\xA1Listo para mezclar!_26": 1621317491977963860
+      "\xA1Listo para mezclar!_27": -4850327656835141246
+      "\xA1Listo para mezclar!_28": 7821644549479848344
+      "\xA1Listo para mezclar!_29": -3343822689266279013
+      "\xA1Listo para mezclar!_3": -4648395508240751793
+      "\xA1Listo para mezclar!_30": 2626633924314666365
+      "\xA1Listo para mezclar!_31": 4573099930142575391
+      "\xA1Listo para mezclar!_32": 7379597524887343528
+      "\xA1Listo para mezclar!_33": 720307603475100375
+      "\xA1Listo para mezclar!_34": -3095327727458305030
+      "\xA1Listo para mezclar!_35": 1933617326811717112
+      "\xA1Listo para mezclar!_36": -2075113212967603831
+      "\xA1Listo para mezclar!_37": -7913670826674903778
+      "\xA1Listo para mezclar!_38": 2096265726637040125
+      "\xA1Listo para mezclar!_39": 4961754861877433576
+      "\xA1Listo para mezclar!_4": -1739182490270936839
+      "\xA1Listo para mezclar!_40": 1670275419440008051
+      "\xA1Listo para mezclar!_41": -5266343184955963718
+      "\xA1Listo para mezclar!_42": 6483821630828800546
+      "\xA1Listo para mezclar!_43": 4251364944380766174
+      "\xA1Listo para mezclar!_44": -6118237655230761169
+      "\xA1Listo para mezclar!_45": 5403402263082235180
+      "\xA1Listo para mezclar!_46": 3257842602104698414
+      "\xA1Listo para mezclar!_47": -507231252633534653
+      "\xA1Listo para mezclar!_48": -448809431816822486
+      "\xA1Listo para mezclar!_49": 6154460108743487074
+      "\xA1Listo para mezclar!_5": 71418934658771469
+      "\xA1Listo para mezclar!_50": 2383754330471212304
+      "\xA1Listo para mezclar!_51": -4823863063876069086
+      "\xA1Listo para mezclar!_52": 8002708642904627931
+      "\xA1Listo para mezclar!_53": 1946276997479564845
+      "\xA1Listo para mezclar!_54": 3391208258483452785
+      "\xA1Listo para mezclar!_55": 3073868006259069579
+      "\xA1Listo para mezclar!_56": 1507365685987471673
+      "\xA1Listo para mezclar!_57": -1395464415947537971
+      "\xA1Listo para mezclar!_58": -97803000848814493
+      "\xA1Listo para mezclar!_59": 6118973517552810726
+      "\xA1Listo para mezclar!_6": -381787580418222572
+      "\xA1Listo para mezclar!_60": -3248146256444597732
+      "\xA1Listo para mezclar!_61": 3344759428530424280
+      "\xA1Listo para mezclar!_62": -4727196205786663764
+      "\xA1Listo para mezclar!_63": 9004069630019299779
+      "\xA1Listo para mezclar!_64": -6677922201464995947
+      "\xA1Listo para mezclar!_65": -8824806147687907192
+      "\xA1Listo para mezclar!_66": -5161458975966456412
+      "\xA1Listo para mezclar!_67": -7901882875182923954
+      "\xA1Listo para mezclar!_68": 5031722345203549771
+      "\xA1Listo para mezclar!_69": 5143600047385190315
+      "\xA1Listo para mezclar!_7": -7737986808030448686
+      "\xA1Listo para mezclar!_70": 5392731052517841335
+      "\xA1Listo para mezclar!_71": -4040408094609945789
+      "\xA1Listo para mezclar!_72": 5083525939627040392
+      "\xA1Listo para mezclar!_73": 7570307707877643517
+      "\xA1Listo para mezclar!_74": 7917638949954184059
+      "\xA1Listo para mezclar!_75": -5370864147988234707
+      "\xA1Listo para mezclar!_76": 3547497615158742847
+      "\xA1Listo para mezclar!_77": 8584523824694657259
+      "\xA1Listo para mezclar!_78": -738296318273185693
+      "\xA1Listo para mezclar!_79": 3874495003941567513
+      "\xA1Listo para mezclar!_8": 3652473090024365572
+      "\xA1Listo para mezclar!_80": 4405286423934215461
+      "\xA1Listo para mezclar!_81": -2022493681870649810
+      "\xA1Listo para mezclar!_82": 6318823024110111331
+      "\xA1Listo para mezclar!_83": 6355293005914184333
+      "\xA1Listo para mezclar!_84": -6850587082384409124
+      "\xA1Listo para mezclar!_85": 4763108554533027440
+      "\xA1Listo para mezclar!_86": 8971511800088225387
+      "\xA1Listo para mezclar!_87": -5310237504617755386
+      "\xA1Listo para mezclar!_88": -3727157566253583334
+      "\xA1Listo para mezclar!_89": -6370245336564866751
+      "\xA1Listo para mezclar!_9": 4023675045797250484
+      "\xA1Listo para mezclar!_90": -3259438114708000380
+      "\xA1Listo para mezclar!_91": -7958577955766228698
+      "\xA1Listo para mezclar!_92": 1080053096500112895
+      "\xA1Listo para mezclar!_93": -2102776217540153416
+      "\xA1Listo para mezclar!_94": -328295120458576887
+      "\xA1Listo para mezclar!_95": 8900638158772544485
+      "\xA1Listo para mezclar!_96": 8149536133831400301
+      "\xA1Listo para mezclar!_97": 2652753264983192552
+      "\xA1Listo para mezclar!_98": -4152875817159099312
+      "\xA1Listo para mezclar!_99": -4052539736831019183
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

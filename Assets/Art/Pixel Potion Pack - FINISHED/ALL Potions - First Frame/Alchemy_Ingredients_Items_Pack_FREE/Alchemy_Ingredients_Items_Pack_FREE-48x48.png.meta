@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 1e7a2bfd3fe81814eb07036d0643ca35
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6844144614362768676
+    second: Alchemy_Ingredients_Items_Pack_FREE-48x48_0
+  - first:
+      213: -4340765719021885730
+    second: Alchemy_Ingredients_Items_Pack_FREE-48x48_1
+  - first:
+      213: -6712600330787888401
+    second: Alchemy_Ingredients_Items_Pack_FREE-48x48_2
+  - first:
+      213: -3278916544667182457
+    second: Alchemy_Ingredients_Items_Pack_FREE-48x48_3
+  - first:
+      213: -2128498555370257378
+    second: Alchemy_Ingredients_Items_Pack_FREE-48x48_4
+  - first:
+      213: 9020942314116015386
+    second: Alchemy_Ingredients_Items_Pack_FREE-48x48_5
+  - first:
+      213: -6512653949172078253
+    second: Alchemy_Ingredients_Items_Pack_FREE-48x48_6
+  - first:
+      213: -2033138917025395245
+    second: Alchemy_Ingredients_Items_Pack_FREE-48x48_7
+  - first:
+      213: -528375866249574146
+    second: Alchemy_Ingredients_Items_Pack_FREE-48x48_8
+  - first:
+      213: 8180225447704088161
+    second: Alchemy_Ingredients_Items_Pack_FREE-48x48_9
+  - first:
+      213: 8574651940142257648
+    second: Alchemy_Ingredients_Items_Pack_FREE-48x48_10
+  - first:
+      213: 7933647286231646818
+    second: Alchemy_Ingredients_Items_Pack_FREE-48x48_11
+  - first:
+      213: -7006075158049379519
+    second: Alchemy_Ingredients_Items_Pack_FREE-48x48_12
+  - first:
+      213: 7689865462714560581
+    second: Alchemy_Ingredients_Items_Pack_FREE-48x48_13
+  - first:
+      213: -2306377789638992206
+    second: Alchemy_Ingredients_Items_Pack_FREE-48x48_14
+  - first:
+      213: 2285666303535376159
+    second: Alchemy_Ingredients_Items_Pack_FREE-48x48_15
+  - first:
+      213: -1670985863415382414
+    second: Alchemy_Ingredients_Items_Pack_FREE-48x48_16
+  - first:
+      213: 9065319550976747500
+    second: Alchemy_Ingredients_Items_Pack_FREE-48x48_17
+  - first:
+      213: 5721064683688256689
+    second: Alchemy_Ingredients_Items_Pack_FREE-48x48_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Alchemy_Ingredients_Items_Pack_FREE-48x48_0
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 95
+        width: 44
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cda118d2cb6b401a0800000000000000
+      internalID: -6844144614362768676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alchemy_Ingredients_Items_Pack_FREE-48x48_1
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 143
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed6e180b39082c3c0800000000000000
+      internalID: -4340765719021885730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alchemy_Ingredients_Items_Pack_FREE-48x48_2
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 95
+        width: 44
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe2e734609d08d2a0800000000000000
+      internalID: -6712600330787888401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alchemy_Ingredients_Items_Pack_FREE-48x48_3
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 149
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78a16fa66c2fe72d0800000000000000
+      internalID: -3278916544667182457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alchemy_Ingredients_Items_Pack_FREE-48x48_4
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 143
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e14493657dd0672e0800000000000000
+      internalID: -2128498555370257378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alchemy_Ingredients_Items_Pack_FREE-48x48_5
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 149
+        width: 44
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a15ec2c5d33d03d70800000000000000
+      internalID: 9020942314116015386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alchemy_Ingredients_Items_Pack_FREE-48x48_6
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 146
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 359ad8e1db76e95a0800000000000000
+      internalID: -6512653949172078253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alchemy_Ingredients_Items_Pack_FREE-48x48_7
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 143
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ddcdaf4de6d8c3e0800000000000000
+      internalID: -2033138917025395245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alchemy_Ingredients_Items_Pack_FREE-48x48_8
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 95
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef80e48f2f4daa8f0800000000000000
+      internalID: -528375866249574146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alchemy_Ingredients_Items_Pack_FREE-48x48_9
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 98
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16e430934bff58170800000000000000
+      internalID: 8180225447704088161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alchemy_Ingredients_Items_Pack_FREE-48x48_10
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 98
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f51bc452884ff670800000000000000
+      internalID: 8574651940142257648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alchemy_Ingredients_Items_Pack_FREE-48x48_11
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 101
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 262441d2c2af91e60800000000000000
+      internalID: 7933647286231646818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alchemy_Ingredients_Items_Pack_FREE-48x48_12
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 101
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14b27c673cb65ce90800000000000000
+      internalID: -7006075158049379519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alchemy_Ingredients_Items_Pack_FREE-48x48_13
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 53
+        width: 47
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54075ab45e3e7ba60800000000000000
+      internalID: 7689865462714560581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alchemy_Ingredients_Items_Pack_FREE-48x48_14
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 53
+        width: 98
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2be97babe991effd0800000000000000
+      internalID: -2306377789638992206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alchemy_Ingredients_Items_Pack_FREE-48x48_15
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 53
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f176e41a46158bf10800000000000000
+      internalID: 2285666303535376159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alchemy_Ingredients_Items_Pack_FREE-48x48_16
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 47
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27e3d62e5377fc8e0800000000000000
+      internalID: -1670985863415382414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alchemy_Ingredients_Items_Pack_FREE-48x48_17
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 47
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce76f5bf91c7ecd70800000000000000
+      internalID: 9065319550976747500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alchemy_Ingredients_Items_Pack_FREE-48x48_18
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 56
+        width: 44
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b46540b40e456f40800000000000000
+      internalID: 5721064683688256689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Alchemy_Ingredients_Items_Pack_FREE-48x48_0: -6844144614362768676
+      Alchemy_Ingredients_Items_Pack_FREE-48x48_1: -4340765719021885730
+      Alchemy_Ingredients_Items_Pack_FREE-48x48_10: 8574651940142257648
+      Alchemy_Ingredients_Items_Pack_FREE-48x48_11: 7933647286231646818
+      Alchemy_Ingredients_Items_Pack_FREE-48x48_12: -7006075158049379519
+      Alchemy_Ingredients_Items_Pack_FREE-48x48_13: 7689865462714560581
+      Alchemy_Ingredients_Items_Pack_FREE-48x48_14: -2306377789638992206
+      Alchemy_Ingredients_Items_Pack_FREE-48x48_15: 2285666303535376159
+      Alchemy_Ingredients_Items_Pack_FREE-48x48_16: -1670985863415382414
+      Alchemy_Ingredients_Items_Pack_FREE-48x48_17: 9065319550976747500
+      Alchemy_Ingredients_Items_Pack_FREE-48x48_18: 5721064683688256689
+      Alchemy_Ingredients_Items_Pack_FREE-48x48_2: -6712600330787888401
+      Alchemy_Ingredients_Items_Pack_FREE-48x48_3: -3278916544667182457
+      Alchemy_Ingredients_Items_Pack_FREE-48x48_4: -2128498555370257378
+      Alchemy_Ingredients_Items_Pack_FREE-48x48_5: 9020942314116015386
+      Alchemy_Ingredients_Items_Pack_FREE-48x48_6: -6512653949172078253
+      Alchemy_Ingredients_Items_Pack_FREE-48x48_7: -2033138917025395245
+      Alchemy_Ingredients_Items_Pack_FREE-48x48_8: -528375866249574146
+      Alchemy_Ingredients_Items_Pack_FREE-48x48_9: 8180225447704088161
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

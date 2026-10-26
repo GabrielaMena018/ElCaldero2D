@@ -1,0 +1,403 @@
+fileFormatVersion: 2
+guid: 2308aaa7abcb9c4439603e82e808902d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1867846747773562083
+    second: "Bot\xF3n Mezclar de Poci\xF3n M\xE1gica_0"
+  - first:
+      213: -4162515196908764122
+    second: "Bot\xF3n Mezclar de Poci\xF3n M\xE1gica_1"
+  - first:
+      213: 8923318508311242756
+    second: "Bot\xF3n Mezclar de Poci\xF3n M\xE1gica_2"
+  - first:
+      213: 6637146944700924471
+    second: "Bot\xF3n Mezclar de Poci\xF3n M\xE1gica_3"
+  - first:
+      213: -8479323745985744971
+    second: "Bot\xF3n Mezclar de Poci\xF3n M\xE1gica_4"
+  - first:
+      213: -3704595905734217796
+    second: "Bot\xF3n Mezclar de Poci\xF3n M\xE1gica_5"
+  - first:
+      213: 4953874643852172890
+    second: "Bot\xF3n Mezclar de Poci\xF3n M\xE1gica_6"
+  - first:
+      213: -3220410691746327396
+    second: "Bot\xF3n Mezclar de Poci\xF3n M\xE1gica_7"
+  - first:
+      213: 4611953510160015032
+    second: "Bot\xF3n Mezclar de Poci\xF3n M\xE1gica_8"
+  - first:
+      213: -5958555729589194764
+    second: "Bot\xF3n Mezclar de Poci\xF3n M\xE1gica_9"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Bot\xF3n Mezclar de Poci\xF3n M\xE1gica_0"
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 711
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d13961877431416e0800000000000000
+      internalID: -1867846747773562083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF3n Mezclar de Poci\xF3n M\xE1gica_1"
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 745
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 624861c7b76cb36c0800000000000000
+      internalID: -4162515196908764122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF3n Mezclar de Poci\xF3n M\xE1gica_2"
+      rect:
+        serializedVersion: 2
+        x: 1418
+        y: 710
+        width: 63
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4086f81d7eef5db70800000000000000
+      internalID: 8923318508311242756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF3n Mezclar de Poci\xF3n M\xE1gica_3"
+      rect:
+        serializedVersion: 2
+        x: 1691
+        y: 710
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 732c7f82bf1eb1c50800000000000000
+      internalID: 6637146944700924471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF3n Mezclar de Poci\xF3n M\xE1gica_4"
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 22
+        width: 2022
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bf2cf87af3635a80800000000000000
+      internalID: -8479323745985744971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF3n Mezclar de Poci\xF3n M\xE1gica_5"
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 716
+        width: 44
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbf685ac6a1a69cc0800000000000000
+      internalID: -3704595905734217796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF3n Mezclar de Poci\xF3n M\xE1gica_6"
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 716
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5e9f98edb2bfb440800000000000000
+      internalID: 4953874643852172890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF3n Mezclar de Poci\xF3n M\xE1gica_7"
+      rect:
+        serializedVersion: 2
+        x: 1660
+        y: 728
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c94179fc98dce43d0800000000000000
+      internalID: -3220410691746327396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF3n Mezclar de Poci\xF3n M\xE1gica_8"
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 711
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8be14b54843f00040800000000000000
+      internalID: 4611953510160015032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bot\xF3n Mezclar de Poci\xF3n M\xE1gica_9"
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 78
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ffa77b3225fe4da0800000000000000
+      internalID: -5958555729589194764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "Bot\xF3n Mezclar de Poci\xF3n M\xE1gica_0": -1867846747773562083
+      "Bot\xF3n Mezclar de Poci\xF3n M\xE1gica_1": -4162515196908764122
+      "Bot\xF3n Mezclar de Poci\xF3n M\xE1gica_2": 8923318508311242756
+      "Bot\xF3n Mezclar de Poci\xF3n M\xE1gica_3": 6637146944700924471
+      "Bot\xF3n Mezclar de Poci\xF3n M\xE1gica_4": -8479323745985744971
+      "Bot\xF3n Mezclar de Poci\xF3n M\xE1gica_5": -3704595905734217796
+      "Bot\xF3n Mezclar de Poci\xF3n M\xE1gica_6": 4953874643852172890
+      "Bot\xF3n Mezclar de Poci\xF3n M\xE1gica_7": -3220410691746327396
+      "Bot\xF3n Mezclar de Poci\xF3n M\xE1gica_8": 4611953510160015032
+      "Bot\xF3n Mezclar de Poci\xF3n M\xE1gica_9": -5958555729589194764
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

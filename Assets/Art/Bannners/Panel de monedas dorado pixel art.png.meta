@@ -1,0 +1,1053 @@
+fileFormatVersion: 2
+guid: 299e00b3d96fc2446bfc575a10ba5db9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6497610980469442418
+    second: Panel de monedas dorado pixel art_0
+  - first:
+      213: -6144413163503974533
+    second: Panel de monedas dorado pixel art_1
+  - first:
+      213: 5109041283436201106
+    second: Panel de monedas dorado pixel art_2
+  - first:
+      213: -1606371483773614322
+    second: Panel de monedas dorado pixel art_3
+  - first:
+      213: -1028929196651635918
+    second: Panel de monedas dorado pixel art_4
+  - first:
+      213: -3985085192491838127
+    second: Panel de monedas dorado pixel art_5
+  - first:
+      213: 7008775424627369492
+    second: Panel de monedas dorado pixel art_6
+  - first:
+      213: -3129154224783349215
+    second: Panel de monedas dorado pixel art_7
+  - first:
+      213: -2353014171990995914
+    second: Panel de monedas dorado pixel art_8
+  - first:
+      213: -2046231508945078379
+    second: Panel de monedas dorado pixel art_9
+  - first:
+      213: 2987648909822125051
+    second: Panel de monedas dorado pixel art_10
+  - first:
+      213: 3371721547498542937
+    second: Panel de monedas dorado pixel art_11
+  - first:
+      213: -4290170907970783438
+    second: Panel de monedas dorado pixel art_12
+  - first:
+      213: 3852227853384397113
+    second: Panel de monedas dorado pixel art_13
+  - first:
+      213: -1239992324907154436
+    second: Panel de monedas dorado pixel art_14
+  - first:
+      213: -6552974484922688838
+    second: Panel de monedas dorado pixel art_15
+  - first:
+      213: -4548188573002524013
+    second: Panel de monedas dorado pixel art_16
+  - first:
+      213: 9109529364903936533
+    second: Panel de monedas dorado pixel art_17
+  - first:
+      213: -1184710486066195622
+    second: Panel de monedas dorado pixel art_18
+  - first:
+      213: -8599044589010792698
+    second: Panel de monedas dorado pixel art_19
+  - first:
+      213: 7209345648955044329
+    second: Panel de monedas dorado pixel art_20
+  - first:
+      213: 2026426929212560462
+    second: Panel de monedas dorado pixel art_21
+  - first:
+      213: 549560260495710499
+    second: Panel de monedas dorado pixel art_22
+  - first:
+      213: 378099985655616388
+    second: Panel de monedas dorado pixel art_23
+  - first:
+      213: -4467032559499969042
+    second: Panel de monedas dorado pixel art_24
+  - first:
+      213: 3509098690006238834
+    second: Panel de monedas dorado pixel art_25
+  - first:
+      213: -7856558748670014819
+    second: Panel de monedas dorado pixel art_26
+  - first:
+      213: -7055505425872656370
+    second: Panel de monedas dorado pixel art_27
+  - first:
+      213: 7628643845847718253
+    second: Panel de monedas dorado pixel art_28
+  - first:
+      213: 5772574113439357409
+    second: Panel de monedas dorado pixel art_29
+  - first:
+      213: -8076280290177202623
+    second: Panel de monedas dorado pixel art_30
+  - first:
+      213: 1041163531244552490
+    second: Panel de monedas dorado pixel art_31
+  - first:
+      213: 8696817612045980062
+    second: Panel de monedas dorado pixel art_32
+  - first:
+      213: 3302411324384239567
+    second: Panel de monedas dorado pixel art_33
+  - first:
+      213: -7394236418808666706
+    second: Panel de monedas dorado pixel art_34
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Panel de monedas dorado pixel art_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 2080
+        height: 733
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e88f0743d39d3d5a0800000000000000
+      internalID: -6497610980469442418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panel de monedas dorado pixel art_1
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 719
+        width: 45
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b778c1448c8aabaa0800000000000000
+      internalID: -6144413163503974533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panel de monedas dorado pixel art_2
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 717
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 294450a7af5f6e640800000000000000
+      internalID: 5109041283436201106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panel de monedas dorado pixel art_3
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 719
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e074b5c75a505b9e0800000000000000
+      internalID: -1606371483773614322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panel de monedas dorado pixel art_4
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 719
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23b1d8ed85288b1f0800000000000000
+      internalID: -1028929196651635918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panel de monedas dorado pixel art_5
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 715
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 155dadd912222b8c0800000000000000
+      internalID: -3985085192491838127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panel de monedas dorado pixel art_6
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 702
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 416e6675d1c244160800000000000000
+      internalID: 7008775424627369492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panel de monedas dorado pixel art_7
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 719
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12a2060cfc20394d0800000000000000
+      internalID: -3129154224783349215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panel de monedas dorado pixel art_8
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 719
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63c440fc31a685fd0800000000000000
+      internalID: -2353014171990995914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panel de monedas dorado pixel art_9
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 721
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 597fd15b8435a93e0800000000000000
+      internalID: -2046231508945078379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panel de monedas dorado pixel art_10
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 721
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf3e78faad2467920800000000000000
+      internalID: 2987648909822125051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panel de monedas dorado pixel art_11
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 706
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9575e2022e2cace20800000000000000
+      internalID: 3371721547498542937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panel de monedas dorado pixel art_12
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 701
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 237bfac1a404674c0800000000000000
+      internalID: -4290170907970783438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panel de monedas dorado pixel art_13
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 707
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 931b7da92dcd57530800000000000000
+      internalID: 3852227853384397113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panel de monedas dorado pixel art_14
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 711
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf3c2bddc89aacee0800000000000000
+      internalID: -1239992324907154436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panel de monedas dorado pixel art_15
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 701
+        width: 36
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aba1cf3dc682f05a0800000000000000
+      internalID: -6552974484922688838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panel de monedas dorado pixel art_16
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 702
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39a91b6179691e0c0800000000000000
+      internalID: -4548188573002524013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panel de monedas dorado pixel art_17
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 708
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 512c61a61bc8b6e70800000000000000
+      internalID: 9109529364903936533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panel de monedas dorado pixel art_18
+      rect:
+        serializedVersion: 2
+        x: 1593
+        y: 711
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a53185cf6101f8fe0800000000000000
+      internalID: -1184710486066195622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panel de monedas dorado pixel art_19
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 394
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60f4448818e0aa880800000000000000
+      internalID: -8599044589010792698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panel de monedas dorado pixel art_20
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 15
+        width: 36
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e139f4cbadbc0460800000000000000
+      internalID: 7209345648955044329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panel de monedas dorado pixel art_21
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 32
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e44100f3e805f1c10800000000000000
+      internalID: 2026426929212560462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panel de monedas dorado pixel art_22
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 34
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 329948d252e60a700800000000000000
+      internalID: 549560260495710499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panel de monedas dorado pixel art_23
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 23
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48355960fe74f3500800000000000000
+      internalID: 378099985655616388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panel de monedas dorado pixel art_24
+      rect:
+        serializedVersion: 2
+        x: 1462
+        y: 23
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eed76e2fd89e102c0800000000000000
+      internalID: -4467032559499969042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panel de monedas dorado pixel art_25
+      rect:
+        serializedVersion: 2
+        x: 1672
+        y: 40
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2764c93aaa2d2b030800000000000000
+      internalID: 3509098690006238834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panel de monedas dorado pixel art_26
+      rect:
+        serializedVersion: 2
+        x: 1801
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9a4984a175e7f290800000000000000
+      internalID: -7856558748670014819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panel de monedas dorado pixel art_27
+      rect:
+        serializedVersion: 2
+        x: 1843
+        y: 25
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e08e404623fc51e90800000000000000
+      internalID: -7055505425872656370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panel de monedas dorado pixel art_28
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 29
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6919b5d8236ed960800000000000000
+      internalID: 7628643845847718253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panel de monedas dorado pixel art_29
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 18
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e91b2f529d4c1050800000000000000
+      internalID: 5772574113439357409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panel de monedas dorado pixel art_30
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 26
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 146cf75bdd94bef80800000000000000
+      internalID: -8076280290177202623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panel de monedas dorado pixel art_31
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 21
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a214ce027b4f27e00800000000000000
+      internalID: 1041163531244552490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panel de monedas dorado pixel art_32
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 22
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e919c5a5a8d41b870800000000000000
+      internalID: 8696817612045980062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panel de monedas dorado pixel art_33
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 15
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcf56244a9584dd20800000000000000
+      internalID: 3302411324384239567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panel de monedas dorado pixel art_34
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 19
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea527a74725626990800000000000000
+      internalID: -7394236418808666706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Panel de monedas dorado pixel art_0: -6497610980469442418
+      Panel de monedas dorado pixel art_1: -6144413163503974533
+      Panel de monedas dorado pixel art_10: 2987648909822125051
+      Panel de monedas dorado pixel art_11: 3371721547498542937
+      Panel de monedas dorado pixel art_12: -4290170907970783438
+      Panel de monedas dorado pixel art_13: 3852227853384397113
+      Panel de monedas dorado pixel art_14: -1239992324907154436
+      Panel de monedas dorado pixel art_15: -6552974484922688838
+      Panel de monedas dorado pixel art_16: -4548188573002524013
+      Panel de monedas dorado pixel art_17: 9109529364903936533
+      Panel de monedas dorado pixel art_18: -1184710486066195622
+      Panel de monedas dorado pixel art_19: -8599044589010792698
+      Panel de monedas dorado pixel art_2: 5109041283436201106
+      Panel de monedas dorado pixel art_20: 7209345648955044329
+      Panel de monedas dorado pixel art_21: 2026426929212560462
+      Panel de monedas dorado pixel art_22: 549560260495710499
+      Panel de monedas dorado pixel art_23: 378099985655616388
+      Panel de monedas dorado pixel art_24: -4467032559499969042
+      Panel de monedas dorado pixel art_25: 3509098690006238834
+      Panel de monedas dorado pixel art_26: -7856558748670014819
+      Panel de monedas dorado pixel art_27: -7055505425872656370
+      Panel de monedas dorado pixel art_28: 7628643845847718253
+      Panel de monedas dorado pixel art_29: 5772574113439357409
+      Panel de monedas dorado pixel art_3: -1606371483773614322
+      Panel de monedas dorado pixel art_30: -8076280290177202623
+      Panel de monedas dorado pixel art_31: 1041163531244552490
+      Panel de monedas dorado pixel art_32: 8696817612045980062
+      Panel de monedas dorado pixel art_33: 3302411324384239567
+      Panel de monedas dorado pixel art_34: -7394236418808666706
+      Panel de monedas dorado pixel art_4: -1028929196651635918
+      Panel de monedas dorado pixel art_5: -3985085192491838127
+      Panel de monedas dorado pixel art_6: 7008775424627369492
+      Panel de monedas dorado pixel art_7: -3129154224783349215
+      Panel de monedas dorado pixel art_8: -2353014171990995914
+      Panel de monedas dorado pixel art_9: -2046231508945078379
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1157 @@
+fileFormatVersion: 2
+guid: 2a630c60b5a1d794ba95c33f36d8e82c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1321718404103902699
+    second: Tienda de Ingredientes Pixelada_0
+  - first:
+      213: -6202098624347109723
+    second: Tienda de Ingredientes Pixelada_1
+  - first:
+      213: 3403334823232811077
+    second: Tienda de Ingredientes Pixelada_2
+  - first:
+      213: -1285624051978627055
+    second: Tienda de Ingredientes Pixelada_3
+  - first:
+      213: 5823124252857706664
+    second: Tienda de Ingredientes Pixelada_4
+  - first:
+      213: -3002997782125632403
+    second: Tienda de Ingredientes Pixelada_5
+  - first:
+      213: 7670855102014572442
+    second: Tienda de Ingredientes Pixelada_6
+  - first:
+      213: -1665299418366696884
+    second: Tienda de Ingredientes Pixelada_7
+  - first:
+      213: -4485288251694526693
+    second: Tienda de Ingredientes Pixelada_8
+  - first:
+      213: 3774405325522165033
+    second: Tienda de Ingredientes Pixelada_9
+  - first:
+      213: 1595376482406351763
+    second: Tienda de Ingredientes Pixelada_10
+  - first:
+      213: -3375859626956469925
+    second: Tienda de Ingredientes Pixelada_11
+  - first:
+      213: -2137632718809203165
+    second: Tienda de Ingredientes Pixelada_12
+  - first:
+      213: -6659047404417435327
+    second: Tienda de Ingredientes Pixelada_13
+  - first:
+      213: -6187517334636810346
+    second: Tienda de Ingredientes Pixelada_14
+  - first:
+      213: 7889366505194066845
+    second: Tienda de Ingredientes Pixelada_15
+  - first:
+      213: 8816662154446990242
+    second: Tienda de Ingredientes Pixelada_16
+  - first:
+      213: 4110381565120167984
+    second: Tienda de Ingredientes Pixelada_17
+  - first:
+      213: 9193437784142225791
+    second: Tienda de Ingredientes Pixelada_18
+  - first:
+      213: -1248090427227295839
+    second: Tienda de Ingredientes Pixelada_19
+  - first:
+      213: 3444318792046577283
+    second: Tienda de Ingredientes Pixelada_20
+  - first:
+      213: 8575391901434845405
+    second: Tienda de Ingredientes Pixelada_21
+  - first:
+      213: -5113241091414372333
+    second: Tienda de Ingredientes Pixelada_22
+  - first:
+      213: -5683765653049264680
+    second: Tienda de Ingredientes Pixelada_23
+  - first:
+      213: -8074620316160967316
+    second: Tienda de Ingredientes Pixelada_24
+  - first:
+      213: -3147254401289920433
+    second: Tienda de Ingredientes Pixelada_25
+  - first:
+      213: 7941783775790889412
+    second: Tienda de Ingredientes Pixelada_26
+  - first:
+      213: -2998392697393888227
+    second: Tienda de Ingredientes Pixelada_27
+  - first:
+      213: -90547652357621806
+    second: Tienda de Ingredientes Pixelada_28
+  - first:
+      213: 7990359146608986420
+    second: Tienda de Ingredientes Pixelada_29
+  - first:
+      213: 1160740332875567008
+    second: Tienda de Ingredientes Pixelada_30
+  - first:
+      213: 1868397966990828510
+    second: Tienda de Ingredientes Pixelada_31
+  - first:
+      213: -6618654281622447495
+    second: Tienda de Ingredientes Pixelada_32
+  - first:
+      213: 4123666665571878434
+    second: Tienda de Ingredientes Pixelada_33
+  - first:
+      213: -6536639945608328642
+    second: Tienda de Ingredientes Pixelada_34
+  - first:
+      213: -368397704460743326
+    second: Tienda de Ingredientes Pixelada_35
+  - first:
+      213: 7688008361241695688
+    second: Tienda de Ingredientes Pixelada_36
+  - first:
+      213: -7670015244225213467
+    second: Tienda de Ingredientes Pixelada_37
+  - first:
+      213: 6200495072842335651
+    second: Tienda de Ingredientes Pixelada_38
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tienda de Ingredientes Pixelada_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 31
+        width: 2157
+        height: 686
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51a6a4e3d1058ade0800000000000000
+      internalID: -1321718404103902699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tienda de Ingredientes Pixelada_1
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 697
+        width: 53
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a60ad94928bde9a0800000000000000
+      internalID: -6202098624347109723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tienda de Ingredientes Pixelada_2
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 691
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54032867df21b3f20800000000000000
+      internalID: 3403334823232811077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tienda de Ingredientes Pixelada_3
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 675
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1189d1b7cbb882ee0800000000000000
+      internalID: -1285624051978627055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tienda de Ingredientes Pixelada_4
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 676
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a8ab8ed7a4efc050800000000000000
+      internalID: 5823124252857706664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tienda de Ingredientes Pixelada_5
+      rect:
+        serializedVersion: 2
+        x: 1293
+        y: 671
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d64ad1f7d653356d0800000000000000
+      internalID: -3002997782125632403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tienda de Ingredientes Pixelada_6
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 675
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a974217c21a547a60800000000000000
+      internalID: 7670855102014572442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tienda de Ingredientes Pixelada_7
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 667
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c42a69b800ba3e8e0800000000000000
+      internalID: -1665299418366696884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tienda de Ingredientes Pixelada_8
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 653
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1fc382691e01c1c0800000000000000
+      internalID: -4485288251694526693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tienda de Ingredientes Pixelada_9
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 628
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92d571a55a1616430800000000000000
+      internalID: 3774405325522165033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tienda de Ingredientes Pixelada_10
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 612
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 393c7d4457ae32610800000000000000
+      internalID: 1595376482406351763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tienda de Ingredientes Pixelada_11
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 82
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b594dab2e898621d0800000000000000
+      internalID: -3375859626956469925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tienda de Ingredientes Pixelada_12
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 63
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32eff1f2e5a9552e0800000000000000
+      internalID: -2137632718809203165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tienda de Ingredientes Pixelada_13
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 65
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1493635baaf4693a0800000000000000
+      internalID: -6659047404417435327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tienda de Ingredientes Pixelada_14
+      rect:
+        serializedVersion: 2
+        x: 1929
+        y: 47
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69fa66b54c5812aa0800000000000000
+      internalID: -6187517334636810346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tienda de Ingredientes Pixelada_15
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 47
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9315fc6909ac7d60800000000000000
+      internalID: 7889366505194066845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tienda de Ingredientes Pixelada_16
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 31
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ab617c44831b5a70800000000000000
+      internalID: 8816662154446990242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tienda de Ingredientes Pixelada_17
+      rect:
+        serializedVersion: 2
+        x: 1902
+        y: 47
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0304d4871420b0930800000000000000
+      internalID: 4110381565120167984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tienda de Ingredientes Pixelada_18
+      rect:
+        serializedVersion: 2
+        x: 1914
+        y: 50
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f71a37ca4f6a59f70800000000000000
+      internalID: 9193437784142225791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tienda de Ingredientes Pixelada_19
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 33
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1af2d8d7e54edaee0800000000000000
+      internalID: -1248090427227295839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tienda de Ingredientes Pixelada_20
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 33
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 386832d41bdaccf20800000000000000
+      internalID: 3444318792046577283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tienda de Ingredientes Pixelada_21
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 33
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd819ceff79e10770800000000000000
+      internalID: 8575391901434845405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tienda de Ingredientes Pixelada_22
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 34
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 310d057815e1a09b0800000000000000
+      internalID: -5113241091414372333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tienda de Ingredientes Pixelada_23
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 31
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d5be6f90453f11b0800000000000000
+      internalID: -5683765653049264680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tienda de Ingredientes Pixelada_24
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 33
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6db2178a9f21ff80800000000000000
+      internalID: -8074620316160967316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tienda de Ingredientes Pixelada_25
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 33
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4064510cc4b254d0800000000000000
+      internalID: -3147254401289920433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tienda de Ingredientes Pixelada_26
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 33
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c9f9f64442e63e60800000000000000
+      internalID: 7941783775790889412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tienda de Ingredientes Pixelada_27
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 33
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1446b65ab19366d0800000000000000
+      internalID: -2998392697393888227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tienda de Ingredientes Pixelada_28
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 33
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d77af1d36f4ebef0800000000000000
+      internalID: -90547652357621806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tienda de Ingredientes Pixelada_29
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 33
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4390c612f4573ee60800000000000000
+      internalID: 7990359146608986420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tienda de Ingredientes Pixelada_30
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 35
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0af4481de27cb1010800000000000000
+      internalID: 1160740332875567008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tienda de Ingredientes Pixelada_31
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 34
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed3ec814d02ede910800000000000000
+      internalID: 1868397966990828510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tienda de Ingredientes Pixelada_32
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 33
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97a96cc7ff0d524a0800000000000000
+      internalID: -6618654281622447495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tienda de Ingredientes Pixelada_33
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 35
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2260885fbf43a3930800000000000000
+      internalID: 4123666665571878434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tienda de Ingredientes Pixelada_34
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 39
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3a03612a903945a0800000000000000
+      internalID: -6536639945608328642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tienda de Ingredientes Pixelada_35
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 33
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26d4c895d3033eaf0800000000000000
+      internalID: -368397704460743326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tienda de Ingredientes Pixelada_36
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 33
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c55b0a2fda41ba60800000000000000
+      internalID: 7688008361241695688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tienda de Ingredientes Pixelada_37
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 31
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eb002ad5c1ae8590800000000000000
+      internalID: -7670015244225213467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tienda de Ingredientes Pixelada_38
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 33
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a5c358ca659c0650800000000000000
+      internalID: 6200495072842335651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Tienda de Ingredientes Pixelada_0: -1321718404103902699
+      Tienda de Ingredientes Pixelada_1: -6202098624347109723
+      Tienda de Ingredientes Pixelada_10: 1595376482406351763
+      Tienda de Ingredientes Pixelada_11: -3375859626956469925
+      Tienda de Ingredientes Pixelada_12: -2137632718809203165
+      Tienda de Ingredientes Pixelada_13: -6659047404417435327
+      Tienda de Ingredientes Pixelada_14: -6187517334636810346
+      Tienda de Ingredientes Pixelada_15: 7889366505194066845
+      Tienda de Ingredientes Pixelada_16: 8816662154446990242
+      Tienda de Ingredientes Pixelada_17: 4110381565120167984
+      Tienda de Ingredientes Pixelada_18: 9193437784142225791
+      Tienda de Ingredientes Pixelada_19: -1248090427227295839
+      Tienda de Ingredientes Pixelada_2: 3403334823232811077
+      Tienda de Ingredientes Pixelada_20: 3444318792046577283
+      Tienda de Ingredientes Pixelada_21: 8575391901434845405
+      Tienda de Ingredientes Pixelada_22: -5113241091414372333
+      Tienda de Ingredientes Pixelada_23: -5683765653049264680
+      Tienda de Ingredientes Pixelada_24: -8074620316160967316
+      Tienda de Ingredientes Pixelada_25: -3147254401289920433
+      Tienda de Ingredientes Pixelada_26: 7941783775790889412
+      Tienda de Ingredientes Pixelada_27: -2998392697393888227
+      Tienda de Ingredientes Pixelada_28: -90547652357621806
+      Tienda de Ingredientes Pixelada_29: 7990359146608986420
+      Tienda de Ingredientes Pixelada_3: -1285624051978627055
+      Tienda de Ingredientes Pixelada_30: 1160740332875567008
+      Tienda de Ingredientes Pixelada_31: 1868397966990828510
+      Tienda de Ingredientes Pixelada_32: -6618654281622447495
+      Tienda de Ingredientes Pixelada_33: 4123666665571878434
+      Tienda de Ingredientes Pixelada_34: -6536639945608328642
+      Tienda de Ingredientes Pixelada_35: -368397704460743326
+      Tienda de Ingredientes Pixelada_36: 7688008361241695688
+      Tienda de Ingredientes Pixelada_37: -7670015244225213467
+      Tienda de Ingredientes Pixelada_38: 6200495072842335651
+      Tienda de Ingredientes Pixelada_4: 5823124252857706664
+      Tienda de Ingredientes Pixelada_5: -3002997782125632403
+      Tienda de Ingredientes Pixelada_6: 7670855102014572442
+      Tienda de Ingredientes Pixelada_7: -1665299418366696884
+      Tienda de Ingredientes Pixelada_8: -4485288251694526693
+      Tienda de Ingredientes Pixelada_9: 3774405325522165033
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

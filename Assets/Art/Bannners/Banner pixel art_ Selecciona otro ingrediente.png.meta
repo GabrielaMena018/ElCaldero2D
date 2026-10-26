@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: a2660ba0690463043bb2292ed23b5793
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8507262415334853460
+    second: Banner pixel art_ Selecciona otro ingrediente_0
+  - first:
+      213: 2774840135363820380
+    second: Banner pixel art_ Selecciona otro ingrediente_1
+  - first:
+      213: -4054338844412974189
+    second: Banner pixel art_ Selecciona otro ingrediente_2
+  - first:
+      213: 7646909546194829071
+    second: Banner pixel art_ Selecciona otro ingrediente_3
+  - first:
+      213: -2162950864502113188
+    second: Banner pixel art_ Selecciona otro ingrediente_4
+  - first:
+      213: -4529981074689098392
+    second: Banner pixel art_ Selecciona otro ingrediente_5
+  - first:
+      213: 2256566499708177576
+    second: Banner pixel art_ Selecciona otro ingrediente_6
+  - first:
+      213: -1580536098001804071
+    second: Banner pixel art_ Selecciona otro ingrediente_7
+  - first:
+      213: -8520217168751196474
+    second: Banner pixel art_ Selecciona otro ingrediente_8
+  - first:
+      213: 7902843020112317512
+    second: Banner pixel art_ Selecciona otro ingrediente_9
+  - first:
+      213: -6324390938330170810
+    second: Banner pixel art_ Selecciona otro ingrediente_10
+  - first:
+      213: -8412678085076304904
+    second: Banner pixel art_ Selecciona otro ingrediente_11
+  - first:
+      213: 5050535803538888560
+    second: Banner pixel art_ Selecciona otro ingrediente_12
+  - first:
+      213: 1663381007760501099
+    second: Banner pixel art_ Selecciona otro ingrediente_13
+  - first:
+      213: 4384685749079326614
+    second: Banner pixel art_ Selecciona otro ingrediente_14
+  - first:
+      213: 2867073026939854580
+    second: Banner pixel art_ Selecciona otro ingrediente_15
+  - first:
+      213: -7174449785380872784
+    second: Banner pixel art_ Selecciona otro ingrediente_16
+  - first:
+      213: -2257803014524461640
+    second: Banner pixel art_ Selecciona otro ingrediente_17
+  - first:
+      213: -1527712058379956109
+    second: Banner pixel art_ Selecciona otro ingrediente_18
+  - first:
+      213: -3367254180489790175
+    second: Banner pixel art_ Selecciona otro ingrediente_19
+  - first:
+      213: 286603421042012462
+    second: Banner pixel art_ Selecciona otro ingrediente_20
+  - first:
+      213: -5026684327669774989
+    second: Banner pixel art_ Selecciona otro ingrediente_21
+  - first:
+      213: 899880576901081080
+    second: Banner pixel art_ Selecciona otro ingrediente_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Banner pixel art_ Selecciona otro ingrediente_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 17
+        width: 2111
+        height: 685
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45bc015e71edf0670800000000000000
+      internalID: 8507262415334853460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banner pixel art_ Selecciona otro ingrediente_1
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 691
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5b7bd0c666328620800000000000000
+      internalID: 2774840135363820380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banner pixel art_ Selecciona otro ingrediente_2
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 697
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39b62b34d481cb7c0800000000000000
+      internalID: -4054338844412974189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banner pixel art_ Selecciona otro ingrediente_3
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 690
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0f7c7a97b74f1a60800000000000000
+      internalID: 7646909546194829071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banner pixel art_ Selecciona otro ingrediente_4
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 675
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5c3ab606a7abf1e0800000000000000
+      internalID: -2162950864502113188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banner pixel art_ Selecciona otro ingrediente_5
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 683
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86df9e3a6364221c0800000000000000
+      internalID: -4529981074689098392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banner pixel art_ Selecciona otro ingrediente_6
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 675
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ac0723964fe05f10800000000000000
+      internalID: 2256566499708177576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banner pixel art_ Selecciona otro ingrediente_7
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 665
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d4abebfacec01ae0800000000000000
+      internalID: -1580536098001804071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banner pixel art_ Selecciona otro ingrediente_8
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 673
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c6866780ab12c980800000000000000
+      internalID: -8520217168751196474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banner pixel art_ Selecciona otro ingrediente_9
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 673
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84c48711bd98cad60800000000000000
+      internalID: 7902843020112317512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banner pixel art_ Selecciona otro ingrediente_10
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 671
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64a712c13ff3b38a0800000000000000
+      internalID: -6324390938330170810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banner pixel art_ Selecciona otro ingrediente_11
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 665
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fb30599ad9204b80800000000000000
+      internalID: -8412678085076304904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banner pixel art_ Selecciona otro ingrediente_12
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 659
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 077d35fed8b171640800000000000000
+      internalID: 5050535803538888560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banner pixel art_ Selecciona otro ingrediente_13
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 663
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6922bda634851710800000000000000
+      internalID: 1663381007760501099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banner pixel art_ Selecciona otro ingrediente_14
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 657
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69f379d257889dc30800000000000000
+      internalID: 4384685749079326614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banner pixel art_ Selecciona otro ingrediente_15
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 640
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fe9ad34ab3e9c720800000000000000
+      internalID: 2867073026939854580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banner pixel art_ Selecciona otro ingrediente_16
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 602
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bdde7b9eeb3f6c90800000000000000
+      internalID: -7174449785380872784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banner pixel art_ Selecciona otro ingrediente_17
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 81
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bd9672ee1caaa0e0800000000000000
+      internalID: -2257803014524461640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banner pixel art_ Selecciona otro ingrediente_18
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 79
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3709e212af97ccae0800000000000000
+      internalID: -1527712058379956109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banner pixel art_ Selecciona otro ingrediente_19
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 79
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12df47fc92c1541d0800000000000000
+      internalID: -3367254180489790175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banner pixel art_ Selecciona otro ingrediente_20
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 63
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e21fe9efa483af300800000000000000
+      internalID: 286603421042012462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banner pixel art_ Selecciona otro ingrediente_21
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 29
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 375483b8c31ad3ab0800000000000000
+      internalID: -5026684327669774989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Banner pixel art_ Selecciona otro ingrediente_22
+      rect:
+        serializedVersion: 2
+        x: 1850
+        y: 33
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f7667eed940d7c00800000000000000
+      internalID: 899880576901081080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Banner pixel art_ Selecciona otro ingrediente_0: 8507262415334853460
+      Banner pixel art_ Selecciona otro ingrediente_1: 2774840135363820380
+      Banner pixel art_ Selecciona otro ingrediente_10: -6324390938330170810
+      Banner pixel art_ Selecciona otro ingrediente_11: -8412678085076304904
+      Banner pixel art_ Selecciona otro ingrediente_12: 5050535803538888560
+      Banner pixel art_ Selecciona otro ingrediente_13: 1663381007760501099
+      Banner pixel art_ Selecciona otro ingrediente_14: 4384685749079326614
+      Banner pixel art_ Selecciona otro ingrediente_15: 2867073026939854580
+      Banner pixel art_ Selecciona otro ingrediente_16: -7174449785380872784
+      Banner pixel art_ Selecciona otro ingrediente_17: -2257803014524461640
+      Banner pixel art_ Selecciona otro ingrediente_18: -1527712058379956109
+      Banner pixel art_ Selecciona otro ingrediente_19: -3367254180489790175
+      Banner pixel art_ Selecciona otro ingrediente_2: -4054338844412974189
+      Banner pixel art_ Selecciona otro ingrediente_20: 286603421042012462
+      Banner pixel art_ Selecciona otro ingrediente_21: -5026684327669774989
+      Banner pixel art_ Selecciona otro ingrediente_22: 899880576901081080
+      Banner pixel art_ Selecciona otro ingrediente_3: 7646909546194829071
+      Banner pixel art_ Selecciona otro ingrediente_4: -2162950864502113188
+      Banner pixel art_ Selecciona otro ingrediente_5: -4529981074689098392
+      Banner pixel art_ Selecciona otro ingrediente_6: 2256566499708177576
+      Banner pixel art_ Selecciona otro ingrediente_7: -1580536098001804071
+      Banner pixel art_ Selecciona otro ingrediente_8: -8520217168751196474
+      Banner pixel art_ Selecciona otro ingrediente_9: 7902843020112317512
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
